@@ -1,0 +1,7 @@
+.venv/
+output/
+rough/
+output_data/
+.env
+raw_data/
+__pycache__/
