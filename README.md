@@ -1,6 +1,6 @@
 # Python Web Scraper
 
-A configurable, multiprocessing web scraper built with **Playwright** (for browsing) and **Selectolax** (for parsing). 
+A configurable, multiprocessing web scraper built with **Playwright** (for browsing) and **Selectolax** (for parsing).
 
 This project demonstrates a **staged pipeline architecture**, separating the "fetching" logic from the "extraction" logic to make the system more robust against website changes.
 
